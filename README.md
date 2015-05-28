@@ -1,2 +1,1 @@
-# blog-post-notice
-Blog Post Notice
+Blog Post Notice plugin enables the admin to post a message (HTML or just text) on top of a post. The admin can choose specific categories, Ideal for obsolete\deprecation messages for tutorials or technical posts.
